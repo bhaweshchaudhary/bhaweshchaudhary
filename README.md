@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/thisisbhawesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge" alt="thisisbhawesh" /></a> </p>
 
-- 🔭 I’m currently working on [Guess States Of USA Game Using Pandas](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day25)
+- 🔭 I’m currently working on [NATO Phonetics Alphabet](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day26/Project)
 
 - 🌱 I’m currently learning **Python -m Pandas**
 
 - 👨‍💻 All of my projects are available at [callmebhawesh.github.io](callmebhawesh.github.io)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **thisisbhawesh@gmail.com**
 
-- 📄 Know about my experiences [https://callmebhawesh.github.io/resume.pdf](https://callmebhawesh.github.io/resume.pdf)
+- 📄 My Resume [https://callmebhawesh.github.io/resume.pdf](https://callmebhawesh.github.io/resume.pdf)
 
-- ⚡ Fun fact **I think i can't do anything.**
+- ⚡ Fun fact **There is no fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
