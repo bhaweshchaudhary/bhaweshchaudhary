@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thisisbhawesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge" alt="thisisbhawesh" /></a> </p>
 
-- 🔭 I’m currently working on [NATO Phonetics Alphabet](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day26/Project)
+- 🔭 I’m currently working on [Tkinter, args, kwards and creating GUI Application](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day27)
 
 - 🌱 I’m currently learning **Python -m Pandas**
 
