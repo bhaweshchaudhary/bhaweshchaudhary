@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tkinter, args, kwards and creating GUI Application](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day27)
 
-- 🌱 I’m currently learning **Python -m Pandas**
+- 🌱 I’m currently learning **Tkinter, args, kwards and creating GUI Application**
 
 - 👨‍💻 All of my projects are available at [callmebhawesh.github.io](callmebhawesh.github.io)
 
