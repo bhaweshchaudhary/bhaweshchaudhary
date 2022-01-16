@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thisisbhawesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge" alt="thisisbhawesh" /></a> </p>
 
-- 🔭 I’m currently working on [Unit Coverter Program in GUI](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day27)
+- 🔭 I’m currently working on [Time machine playlist for spotify](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day46)
 
-- 🌱 I’m currently learning **Tkinter, args, kwards and creating GUI Application**
+- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 All of my projects are available at [callmebhawesh.github.io](callmebhawesh.github.io)
 
