@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhawesh.</h1>
-<h3 align="center">A passionate full stack python developer from India.</h3>
+<h3 align="center">A passionate full stack python developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callmebhawesh&label=Profile%20views&color=0e75b6&style=flat" alt="callmebhawesh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmebhawesh&label=Profile%20views&color=0e75b6&style=flat" alt="callmebhawesh" /> </p> -->
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=callmebhawesh" alt="callmebhawesh" /> </p>
+<!-- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=callmebhawesh" alt="callmebhawesh" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/thisisbhawesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge" alt="thisisbhawesh" /></a> </p>
-
-- 🔭 I’m currently working on [Time machine playlist for spotify](https://github.com/callmebhawesh/100DaysOfCodeInPython/tree/main/Day46)
-
-- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 All of my projects are available at [callmebhawesh.github.io](callmebhawesh.github.io)
 
 - 📫 How to reach me **thisisbhawesh@gmail.com**
 
 - 📄 My Resume [https://callmebhawesh.github.io/resume.pdf](https://callmebhawesh.github.io/resume.pdf)
-
-- ⚡ Fun fact **There is no fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
