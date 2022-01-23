@@ -38,11 +38,11 @@ I am Fluent in Python, Linux, Django, Git, Pycharm, Vscode.
 </p>
 <p>I am familiar with Javascript, C, C++, and Java.</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmebhawesh&show_icons=true&locale=en&layout=compact" alt="callmebhawesh" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmebhawesh&show_icons=true&locale=en&layout=compact" alt="callmebhawesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmebhawesh&show_icons=true&locale=en" alt="callmebhawesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmebhawesh&" alt="callmebhawesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmebhawesh&" alt="callmebhawesh" /></p> -->
 
 
 <h3 align="left">Support:</h3>
