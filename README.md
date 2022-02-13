@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/thisisbhawesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge" alt="thisisbhawesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [callmebhawesh.github.io](callmebhawesh.github.io)
+- 👨‍💻 Portfolio at [callmebhawesh.github.io](callmebhawesh.github.io)
 
-- 📫 How to reach me **thisisbhawesh@gmail.com**
+- 📫 Mail at **thisisbhawesh@gmail.com**
 
-- 📄 My Resume [https://callmebhawesh.github.io/resume.pdf](https://callmebhawesh.github.io/resume.pdf)
+- 📄 Resume/CV at [https://callmebhawesh.github.io/resume.pdf](https://callmebhawesh.github.io/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
