@@ -4,7 +4,7 @@ Hi 👋 My name is Bhawesh Chaudhary
 Web Developer
 -------------
 
-I have been doing coding for more than 5 Years now. I am comfortable working with Python and JavaScript. Especially web scraping, automation and backend development where i’ve found my passion. I like doing creative codings and login building stuff.
+I have been doing coding for more than 5 Years now. I am comfortable working with Python and JavaScript. Especially web scraping, automation and backend development where i’ve found my passion. I like doing creative codings and logic building stuff.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [bhawesh.me](http://bhawesh.me)
