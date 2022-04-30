@@ -1,7 +1,7 @@
 Hi 👋 My name is Bhawesh Chaudhary
 ==================================
 
-Web Developer
+Backend Python Developer | Interested in Data Engineering
 -------------
 
 I have been doing coding for more than 5 Years now. I am comfortable working with Python and JavaScript. Especially web scraping, automation and backend development where i’ve found my passion. I like doing creative codings and logic building stuff.
