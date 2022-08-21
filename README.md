@@ -1,18 +1,12 @@
 Hi 👋 My name is Bhawesh Chaudhary
 ==================================
-
-Backend Python Developer | Interested in Data Engineering
+Penetration Tester | Python Developer
 -------------
 
-I have been doing coding for more than 5 Years now. I am comfortable working with Python and JavaScript. Especially web scraping, automation and backend development where i’ve found my passion. I like doing creative codings and logic building stuff.
+I am an ethical penetration tester. I have worked with servers closely for building the secure platform to host people's code and bring it live in the huge network of internet. I build backend systems and write scripts for performing some basic but useful task in my penetration journey all using python programming language. 
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [bhawesh.me](http://bhawesh.me)
 * ✉️  You can contact me at [self@bhawesh.me](mailto:self@bhawesh.me)
-* 🚀  I'm currently working on [100 Days Of Code](http://github.com/callmebhawesh/100-Days-Of-Code)
-* 🧠  I'm learning Data Structure and Algorithm
-* 🤝  I'm open to collaborating on Building Restful API in Python
-* ⚡  I am an Introvert
 
 <a href="https://www.twitter.com/thisisbhawesh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/thisisbhawesh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -59,7 +53,3 @@ src="https://img.shields.io/github/followers/callmebhawesh?logo=github&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/callmebhawesh/100-Days-Of-Code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmebhawesh&repo=100-Days-Of-Code&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/thisisbhawesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
