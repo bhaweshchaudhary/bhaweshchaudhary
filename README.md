@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmebhawesh&label=Profile%20views&color=0e75b6&style=flat" alt="callmebhawesh" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer at [A5 IT Partners Capital LLC](https://github.com/A5-Capital)
+- 🔭 I’m currently working as a Software Engineer at [A5 Capital Partners LLC](https://github.com/A5-Capital)
 
 - 🌱 My Top Skills are **Typescript, TypeORM, Node.js, Express.js, PostgreSQL, Next.js, Rest API, Nest.js, Microservices**
 
