@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [A5 Capital Partners LLC](https://github.com/A5-Capital)
 
-- 🌱 My Top Skills are **Typescript, TypeORM, Node.js, Express.js, PostgreSQL, Next.js, Rest API, Nest.js, Microservices**
+- 🌱 My Top Skills are **Typescript, TypeORM, Node.js, Express.js, PostgreSQL, Next.js, Rest API, Microservices, Jest**
 
 - 👯 I am open to collaborate on projects, [Email Me](mailto:thisisbhawesh@gmail.com)
 
