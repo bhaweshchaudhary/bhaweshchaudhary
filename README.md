@@ -9,7 +9,7 @@
 
 - 🌱 My Top Skills are **Typescript, TypeORM, Node.js, Express.js, PostgreSQL, Next.js, Rest API, Microservices, Jest**
 
-- 🪲 I am currently building Hyper Xenc from scratch.
+- 🪲 I am also building Hyper Xenc from scratch.
 
 - 👯 I am open to collaborate on projects, [Email Me](mailto:thisisbhawesh@gmail.com)
 
