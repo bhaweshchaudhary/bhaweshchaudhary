@@ -9,7 +9,7 @@
 
 - 🌱 My top skills are **TypeScript, Java, Rust, Node.js, Express.js, Spring Boot, RESTful APIs, Docker, Microservices, Jest, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
 
-- 🪲 I am also building Hyper Xenc from scratch.
+- 🪲 I am currently working on **Domain Lens** project. - A platform for domain management, enabling users to check domain WHOIS data, monitor changes, and receive real-time notifications about key updates such as expiry dates and other domain details. The platform also provides functionality to track the status of domain name servers and offers a centralized dashboard for managing multiple domains efficiently.
 
 - 👯 I am open to collaborate on projects, [Email Me](mailto:thisisbhawesh@gmail.com)
 
