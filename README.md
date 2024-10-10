@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [A5 Capital Partners LLC](https://github.com/A5-Capital)
 
-- 🌱 My Top Skills are **Typescript, TypeORM, Node.js, Express.js, PostgreSQL, Next.js, Rest API, Microservices, Jest**
+- 🌱 My top skills are **TypeScript, Java, Rust, Node.js, Express.js, Spring Boot, RESTful APIs, Docker, Microservices, Jest, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
 
 - 🪲 I am also building Hyper Xenc from scratch.
 
