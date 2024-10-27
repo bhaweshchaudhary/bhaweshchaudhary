@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [A5 Capital Partners LLC](https://github.com/A5-Capital)
 
-- 🌱 My top skills are **TypeScript, Java, Rust, Node.js, Express.js, Spring Boot, RESTful APIs, Docker, Microservices, Jest, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
+- 🌱 My top skills are **TypeScript, Java, Rust, Node.js, Express.js, Spring Boot, Redis, RESTful APIs, Docker, Microservices, Jest, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
 
 - 🪲 I am currently working on **Nominet**. - A platform revolutionizes the top level domains (TLDs) industry and automates the domain investment along with other cool features.
 
