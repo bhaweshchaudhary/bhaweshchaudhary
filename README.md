@@ -17,21 +17,8 @@
 
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/thisisbhawesh/)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaweshchaudhary&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshchaudhary&layout=compact&langs_count=8&theme=radical" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaweshchaudhary&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhaweshchaudhary&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
