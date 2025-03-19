@@ -17,8 +17,4 @@
 
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/thisisbhawesh/)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaweshchaudhary&theme=radical" alt="GitHub Streak" />
-</div>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
