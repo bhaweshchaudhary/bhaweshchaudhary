@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmebhawesh&label=Profile%20views&color=0e75b6&style=flat" alt="callmebhawesh" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer at [A5 Capital Partners LLC](https://github.com/A5-Capital) & Building [Hyper Xenc](https://github.com/Hyper-Xenc)
+- 🔭 I’m currently working on my startup [Hyper Xenc](https://github.com/Hyper-Xenc)
 
-- 🌱 My top skills are **TypeScript, Node.js, Express.js, Nest.js, RESTful APIs, Docker, Jest, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
+- 🌱 My top skills are **Java, Spring Boot, TypeScript, Node.js, Express.js, RESTful APIs, Docker, PostgreSQL, TypeORM, React, and Next.js**, with additional experience and comfort working with other related technologies.
 
 - 🏕️ I am familiar and comfortable working with **Java, Spring Boot, Python, Rust, Django & Flask, Redis, MySQL, MongoDB**, and the other related technologies.
-
-- 🪲 I am currently working on **Nominet**. - A platform revolutionizes the top level domains (TLDs) industry and automates the domain investment along with other cool features.
 
 - 🧞‍♂️ You can see my portfolio [here](https://bhaweshchaudhary.github.io).
 
